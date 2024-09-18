@@ -1,0 +1,388 @@
+# depslib dependency file v1.0
+1721314916 source:c:\users\adriel\desktop\farmasoft\class\claseimprimible\claseimprimible.cpp
+	"ClaseImprimible.h"
+	<conio.h>
+
+1721314916 c:\users\adriel\desktop\farmasoft\class\claseimprimible\claseimprimible.h
+	<iostream>
+	<process.h>
+	<vector>
+
+1721306658 c:\users\adriel\desktop\farmasoft\class\efecto\efecto.h
+	<vector>
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721306658 c:\users\adriel\desktop\farmasoft\class\claseimprimible\claseimprimibleplantilla.h
+	"ClaseImprimible.h"
+
+1721314916 c:\users\adriel\desktop\farmasoft\class\menu\menu.h
+	<conio.h>
+	<iostream>
+	<string>
+
+1721306658 c:\users\adriel\desktop\farmasoft\class\droga\droga.h
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Fecha/Fecha.h"
+
+1721314916 c:\users\adriel\desktop\farmasoft\class\fecha\fecha.h
+	<iostream>
+
+1721306658 c:\users\adriel\desktop\farmasoft\class\marca\marca.h
+	<string>
+	<vector>
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721314916 c:\users\adriel\desktop\farmasoft\class\medicamento\medicamento.h
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../Fecha/Fecha.h"
+
+1721306658 c:\users\adriel\desktop\farmasoft\class\presentacion\presentacion.h
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721306658 source:c:\users\adriel\desktop\farmasoft\class\efecto\efecto.cpp
+	"Efecto.h"
+	<string.h>
+
+1721314916 source:c:\users\adriel\desktop\farmasoft\class\fecha\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+	<cstring>
+	<sstream>
+
+1721306394 source:c:\users\adriel\desktop\farmasoft\class\lote\lote.cpp
+	"Lote.h"
+	<cstring>
+
+1721306394 c:\users\adriel\desktop\farmasoft\class\lote\lote.h
+	<string>
+	"../Fecha/Fecha.h"
+
+1721306658 source:c:\users\adriel\desktop\farmasoft\class\marca\marca.cpp
+	"Marca.h"
+	<string.h>
+
+1721314916 source:c:\users\adriel\desktop\farmasoft\class\medicamento\medicamento.cpp
+	"Medicamento.h"
+	<cstring>
+
+1721306658 source:c:\users\adriel\desktop\farmasoft\class\medicamentoefectos\medicamentosefectos.cpp
+	"MedicamentosEfectos.h"
+
+1721306658 c:\users\adriel\desktop\farmasoft\class\medicamentoefectos\medicamentosefectos.h
+	<sstream>
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721314916 source:c:\users\adriel\desktop\farmasoft\class\menu\menu.cpp
+	"Menu.h"
+
+1721305702 source:c:\users\adriel\documents\github\farmasoft\class\claseimprimible\claseimprimible.cpp
+	"ClaseImprimible.h"
+	<conio.h>
+	"../Efecto/Efecto.h"
+	"../Menu/Menu.h"
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\claseimprimible\claseimprimible.h
+	<iostream>
+	<vector>
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\efecto\efecto.h
+	<vector>
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\claseimprimible\claseimprimibleplantilla.h
+	"ClaseImprimible.h"
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\menu\menu.h
+	<conio.h>
+	<iostream>
+	<string>
+	"../Droga/Droga.h"
+	"../Efecto/Efecto.h"
+	"../Marca/Marca.h"
+	"../Medicamento/Medicamento.h"
+	"../Presentacion/Presentacion.h"
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\droga\droga.h
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Fecha/Fecha.h"
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\fecha\fecha.h
+	<iostream>
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\marca\marca.h
+	<string>
+	<vector>
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\medicamento\medicamento.h
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Fecha/Fecha.h"
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\presentacion\presentacion.h
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721305702 source:c:\users\adriel\documents\github\farmasoft\class\efecto\efecto.cpp
+	"Efecto.h"
+	<string.h>
+
+1721305702 source:c:\users\adriel\documents\github\farmasoft\class\fecha\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+	<cstring>
+	<sstream>
+
+1720097571 source:c:\users\adriel\documents\github\farmasoft\class\lote\lote.cpp
+	"Lote.h"
+	<cstring>
+
+1721302877 c:\users\adriel\documents\github\farmasoft\class\lote\lote.h
+	<string>
+	"../Fecha/Fecha.h"
+
+1721305702 source:c:\users\adriel\documents\github\farmasoft\class\marca\marca.cpp
+	"Marca.h"
+	<string.h>
+
+1721305702 source:c:\users\adriel\documents\github\farmasoft\class\medicamento\medicamento.cpp
+	"Medicamento.h"
+	"../Fecha/Fecha.h"
+	<cstring>
+	"../Droga/Droga.h"
+	"../Efecto/Efecto.h"
+	"../Marca/Marca.h"
+	"../Presentacion/Presentacion.h"
+
+1721305702 source:c:\users\adriel\documents\github\farmasoft\class\medicamentoefectos\medicamentosefectos.cpp
+	"MedicamentosEfectos.h"
+
+1721305702 c:\users\adriel\documents\github\farmasoft\class\medicamentoefectos\medicamentosefectos.h
+	<sstream>
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721305702 source:c:\users\adriel\documents\github\farmasoft\class\menu\menu.cpp
+	"Menu.h"
+
+1721305702 source:c:\users\adriel\documents\github\farmasoft\class\presentacion\presentacion.cpp
+	"Presentacion.h"
+	<string.h>
+
+1721315762 source:c:\users\adriel\documents\github\farmasoft\class\movimientoegreso\movimientoegreso.cpp
+	"MovimientoEgreso.h"
+	<cstring>
+
+1721316848 c:\users\adriel\documents\github\farmasoft\class\movimientoegreso\movimientoegreso.h
+	<string>
+	"../Fecha/Fecha.h"
+
+1721316102 source:c:\users\adriel\documents\github\farmasoft\class\droga\droga.cpp
+	"Droga.h"
+	<cstring>
+
+1721316153 source:c:\users\adriel\documents\github\farmasoft\class\movimientoingreso\movimientoingreso.cpp
+	"MovimientoIngreso.h"
+
+1721316848 c:\users\adriel\documents\github\farmasoft\class\movimientoingreso\movimientoingreso.h
+	<string>
+	"../Fecha/Fecha.h"
+
+1721316331 source:c:\users\adriel\desktop\proyecto farma\proyectofarma2\main.cpp
+	"../../../Documents/GitHub/farmasoft/Class/Droga/Droga.h"
+	"../../../Documents/GitHub/farmasoft/Class/Efecto/Efecto.h"
+	"../../../Documents/GitHub/farmasoft/Class/Medicamento/Medicamento.h"
+	"../../../Documents/GitHub/farmasoft/Class/Menu/Menu.h"
+	"../../../Documents/GitHub/farmasoft/Class/ClaseImprimible/ClaseImprimible.h"
+
+1721317987 source:c:\users\pca\desktop\farmasoft\class\droga\droga.cpp
+	"Droga.h"
+	<cstring>
+
+1721915632 c:\users\pca\desktop\farmasoft\class\droga\droga.h
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Fecha/Fecha.h"
+
+1721309545 c:\users\pca\desktop\farmasoft\class\claseimprimible\claseimprimibleplantilla.h
+	"ClaseImprimible.h"
+
+1721309545 c:\users\pca\desktop\farmasoft\class\claseimprimible\claseimprimible.h
+	<iostream>
+	<vector>
+
+1721309545 c:\users\pca\desktop\farmasoft\class\fecha\fecha.h
+	<iostream>
+
+1721906892 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\main.cpp
+	"../../farmasoft/Class/Medicamento/Medicamento.h"
+	"../../farmasoft/Class/Menu/Menu.h"
+
+1721917348 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\marca\marca.cpp
+	"Marca.h"
+	<string.h>
+
+1721906000 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\marca\marca.h
+	<string>
+	<vector>
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721917231 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\claseimprimible\claseimprimibleplantilla.h
+	"ClaseImprimible.h"
+	<type_traits>
+
+1721918934 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\claseimprimible\claseimprimible.h
+	<iostream>
+	<vector>
+
+1721918934 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\claseimprimible\claseimprimible.cpp
+	"ClaseImprimible.h"
+	<conio.h>
+	"../Efecto/Efecto.h"
+	"../Menu/Menu.h"
+
+1721916678 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\efecto\efecto.h
+	<vector>
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721908642 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\menu\menu.h
+	<conio.h>
+	<iostream>
+	<string>
+	<vector>
+	"../Droga/Droga.h"
+	"../Efecto/Efecto.h"
+	"../Marca/Marca.h"
+	"../Medicamento/Medicamento.h"
+	"../Presentacion/Presentacion.h"
+	"../MovimientoEgreso/MovimientoEgreso.h"
+	"../MovimientoIngreso/MovimientoIngreso.h"
+
+1721916772 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\droga\droga.h
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Fecha/Fecha.h"
+
+1721323287 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\fecha\fecha.h
+	<iostream>
+
+1721917771 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\medicamento\medicamento.h
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Fecha/Fecha.h"
+
+1721916261 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\presentacion\presentacion.h
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721918754 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\medicamento\medicamento.cpp
+	"Medicamento.h"
+	"../Fecha/Fecha.h"
+	<cstring>
+	<algorithm>
+	<conio.h>
+	<ctime>
+	"../Droga/Droga.h"
+	"../Efecto/Efecto.h"
+	"../Marca/Marca.h"
+	"../MedicamentoDrogas/MedicamentoDrogas.h"
+	"../MedicamentoEfectos/MedicamentosEfectos.h"
+	"../Presentacion/Presentacion.h"
+
+1721906540 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\presentacion\presentacion.cpp
+	"Presentacion.h"
+	<string.h>
+
+1721905661 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\efecto\efecto.cpp
+	"Efecto.h"
+	<string.h>
+
+1721323287 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\fecha\fecha.cpp
+	"Fecha.h"
+	<ctime>
+	<iostream>
+	<cstring>
+	<sstream>
+
+1721323965 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\lote\lote.cpp
+	"Lote.h"
+	<cstring>
+
+1721323965 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\lote\lote.h
+	<string>
+	"../Fecha/Fecha.h"
+
+1721324128 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\menu\menu.cpp
+	"Menu.h"
+
+1721905320 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\movimientoingreso\movimientoingreso.cpp
+	"MovimientoIngreso.h"
+	<cstring>
+	<ctime>
+
+1721905661 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\droga\droga.cpp
+	"Droga.h"
+	<cstring>
+
+1721309545 c:\users\pca\desktop\farmasoft\class\efecto\efecto.h
+	<vector>
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721309545 c:\users\pca\desktop\farmasoft\class\medicamento\medicamento.h
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Fecha/Fecha.h"
+
+1721309545 c:\users\pca\desktop\farmasoft\class\menu\menu.h
+	<conio.h>
+	<iostream>
+	<string>
+	"../Droga/Droga.h"
+	"../Efecto/Efecto.h"
+	"../Marca/Marca.h"
+	"../Medicamento/Medicamento.h"
+	"../Presentacion/Presentacion.h"
+
+1721309545 c:\users\pca\desktop\farmasoft\class\marca\marca.h
+	<string>
+	<vector>
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721309545 c:\users\pca\desktop\farmasoft\class\presentacion\presentacion.h
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721905320 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\movimientoingreso\movimientoingreso.h
+	<string>
+	"../Fecha/Fecha.h"
+	"../ClaseImprimible/ClaseImprimible.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721906695 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\movimientoegreso\movimientoegreso.cpp
+	"MovimientoEgreso.h"
+	<cstring>
+	<ctime>
+	"../Fecha/Fecha.h"
+	"../Medicamento/Medicamento.h"
+
+1721906695 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\movimientoegreso\movimientoegreso.h
+	<string>
+	"../Fecha/Fecha.h"
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+
+1721906329 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\medicamentodrogas\medicamentodrogas.cpp
+	"MedicamentoDrogas.h"
+
+1721906328 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\medicamentodrogas\medicamentodrogas.h
+	<sstream>
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Droga/Droga.h"
+
+1721917593 source:c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\medicamentoefectos\medicamentoefectos.cpp
+	"MedicamentosEfectos.h"
+
+1721917593 c:\users\pca\desktop\proyecto farma\proyectofarma2\obj\debug\documents\github\farmasoft\class\medicamentoefectos\medicamentosefectos.h
+	<sstream>
+	"../ClaseImprimible/ClaseImprimiblePlantilla.h"
+	"../Efecto/Efecto.h"
+

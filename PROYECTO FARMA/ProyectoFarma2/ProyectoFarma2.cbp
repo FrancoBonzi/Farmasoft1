@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="ProyectoFarma2" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/ProyectoFarma2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/ProyectoFarma2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="../../farmasoft/Class/Droga/Droga.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/ClaseImprimible/ClaseImprimible.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/ClaseImprimible/ClaseImprimible.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/ClaseImprimible/ClaseImprimiblePlantilla.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Droga/Droga.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Droga/Droga.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Efecto/Efecto.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Efecto/Efecto.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Fecha/Fecha.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Fecha/Fecha.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Lote/Lote.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Lote/Lote.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Marca/Marca.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Marca/Marca.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/MedicamentoDrogas/MedicamentoDrogas.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/MedicamentoDrogas/MedicamentoDrogas.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/MedicamentoEfectos/MedicamentoEfectos.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/MedicamentoEfectos/MedicamentosEfectos.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Medicamento/Medicamento.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Medicamento/Medicamento.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Menu/Menu.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Menu/Menu.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/MovimientoEgreso/MovimientoEgreso.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/MovimientoEgreso/MovimientoEgreso.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/MovimientoIngreso/MovimientoIngreso.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/MovimientoIngreso/MovimientoIngreso.h" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Presentacion/Presentacion.cpp" />
+		<Unit filename="obj/Debug/Documents/GitHub/farmasoft/Class/Presentacion/Presentacion.h" />
+		<Extensions />
+	</Project>
+</CodeBlocks_project_file>
